@@ -143,8 +143,8 @@ pkg install git -y
 pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
-git clone https://github.com/GataNina-Li/GataBot-MD
-cd GataBot-MD
+git clone https://github.com/Morfeus863/jok6
+cd jok6
 npm start
 ```
 ------------------
